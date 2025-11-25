@@ -39,8 +39,7 @@ GAMES101 是由闫令琪老师主讲的计算机图形学入门课程，涵盖�
 
 ### 1. 克隆仓库
 ```bash
-git clone https://github.com/yourusername/GAMES101-homework.git
-cd GAMES101-homework
+git clone git@github.com:zhuguanxin/GAMES101homework.git
 ```
 
 ### 2. 环境配置
